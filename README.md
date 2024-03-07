@@ -18,6 +18,7 @@ Exploring cloud-based MLOps solutions for scalable and efficient deployments.
 
 📫 Let's Connect
 🌐 LinkedIn: Connect with me on LinkedIn to stay updated on my professional journey! => https://www.linkedin.com/in/mohamed-ali-rommen-2467ab1ab/
+
 📧 Email: Feel free to reach out via email at mouhamedalirommene@gmail.com
 🤝 Open to MLOps Collaborations
 Eager to collaborate on MLOps projects and explore innovative ways to operationalize machine learning models. If you have ideas or projects, let's join forces and bring them to life!
