@@ -19,6 +19,7 @@ Implementing automated testing and validation processes for machine learning mod
 Exploring cloud-based MLOps solutions for scalable and efficient deployments.
 
 📫 Let's Connect
+
 🌐 LinkedIn: Connect with me on LinkedIn to stay updated on my professional journey! => https://www.linkedin.com/in/mohamed-ali-rommen-2467ab1ab/
 
 📧 Email: Feel free to reach out via email at mouhamedalirommene@gmail.com
