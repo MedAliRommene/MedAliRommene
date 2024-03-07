@@ -10,8 +10,11 @@
 
 💼 Skills
 Machine Learning Operations (MLOps): Model deployment, monitoring, and management.
+
 DevOps Tools: Docker, Jenkins.
+
 Continuous Integration/Continuous Deployment (CI/CD): GitHub Actions, GitLab CI.
+
 Version Control: Git, GitHub.
 
 🌱 What I'm Currently Learning
