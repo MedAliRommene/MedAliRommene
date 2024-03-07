@@ -9,6 +9,7 @@
 🌐 Actively exploring cutting-edge technologies and best practices to bridge the gap between data science and operations.
 
 💼 Skills
+
 Machine Learning Operations (MLOps): Model deployment, monitoring, and management.
 
 DevOps Tools: Docker, Jenkins.
@@ -18,6 +19,7 @@ Continuous Integration/Continuous Deployment (CI/CD): GitHub Actions, GitLab CI.
 Version Control: Git, GitHub.
 
 🌱 What I'm Currently Learning
+
 Implementing automated testing and validation processes for machine learning models.
 Exploring cloud-based MLOps solutions for scalable and efficient deployments.
 
