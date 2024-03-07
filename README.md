@@ -1,6 +1,7 @@
 👋 Hey, I'm Mohamed Ali Rommen, a data science engineering student with a passion for MLOps – the perfect blend of machine learning and operations! 👨‍💻
 
 🚀 About Me
+
 🎓 Currently immersed in the world of Data Science Engineering, with a specific focus on MLOps – the seamless integration of machine learning models into production workflows.
 
 💻 Excited about optimizing and streamlining the entire machine learning lifecycle – from development and training to deployment and monitoring.
@@ -12,6 +13,7 @@ Machine Learning Operations (MLOps): Model deployment, monitoring, and managemen
 DevOps Tools: Docker, Jenkins.
 Continuous Integration/Continuous Deployment (CI/CD): GitHub Actions, GitLab CI.
 Version Control: Git, GitHub.
+
 🌱 What I'm Currently Learning
 Implementing automated testing and validation processes for machine learning models.
 Exploring cloud-based MLOps solutions for scalable and efficient deployments.
